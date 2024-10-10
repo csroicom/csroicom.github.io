@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.csroi.com/</loc>
-    <lastmod>2024-07-08</lastmod>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.csroi.com/#/deals</loc>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.csroi.com/#/inventory</loc>
+    <lastmod>2024-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -583,6 +595,16 @@
   </url>
   <url>
     <loc>https://csroi.com/#/item/dreamhack-cluj-napoca-2015-legends-foil</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/stattrak-masterminds-2-music-kit-box</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/masterminds-2-music-kit-box</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1682,9 +1704,43 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://csroi.com/#/item/the-cobblestone-collection-souvenir</loc>
+    <loc>https://csroi.com/#/item/small-arms-charms</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-
+  <url>
+    <loc>https://csroi.com/#/item/missing-link-charms</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/the-sport-field-collection</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/the-overpass-2024-collection</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/the-graphic-design-collection</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/limited-edition-item</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/character-craft-stickers-collection</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://csroi.com/#/item/elemental-craft-stickers-collection</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
