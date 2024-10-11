@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.74093490.css",
-    "main.js": "/static/js/main.c9577556.js",
+    "main.js": "/static/js/main.9b1c48f3.js",
     "static/js/206.8777d2a5.chunk.js": "/static/js/206.8777d2a5.chunk.js",
     "static/media/OpenBox.svg": "/static/media/OpenBox.baf8225149d43f704d0b3e2965285ff1.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.74093490.css",
-    "static/js/main.c9577556.js"
+    "static/js/main.9b1c48f3.js"
   ]
 }
